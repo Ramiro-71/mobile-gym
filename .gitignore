@@ -1,3 +1,7 @@
+# AI Agents for development
+.agents
+skills-lock.json
+
 # Miscellaneous
 *.class
 *.lock
